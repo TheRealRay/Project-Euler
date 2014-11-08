@@ -1,1 +1,0 @@
-The language I will be using is C.
