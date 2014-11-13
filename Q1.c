@@ -1,5 +1,5 @@
 /* Calculate the sum of all multiples of 3 or 5 bellow 1000 */
-/* MY WAY
+// MY WAY
 #include <stdio.h>
 
 int main(void){
